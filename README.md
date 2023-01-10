@@ -1,5 +1,10 @@
 # ChurchIMIS
 System for church management
+
+##Work Plan Link 
+
+https://github.com/orgs/ThinkIQ-Business-Solutions/projects/5/views/4
+
 <table><thead><tr><th>Feature</th><th>Description</th></tr></thead><tbody><tr><td>Member Management</td><td>Allows the church to manage and track member information, including contact information, attendance, and giving history</td></tr><tr><td>Event Management</td><td>Allows the church to create, schedule, and manage events and services, including scheduling volunteers and sending out reminders</td></tr><tr><td>Giving Management</td><td>Allows the church to track and manage giving, including offering, tithes, and donations</td></tr><tr><td>Communication</td><td>Allows the church to communicate with members, including through email, SMS, and push notifications</td></tr><tr><td>Scheduling</td><td>Allows the church to schedule and manage resources, including rooms, equipment, and volunteers</td></tr><tr><td>Security</td><td>Provides secure access to the system, including user login and data protection</td></tr><tr><td>Reports</td><td>Allows the church to generate reports on various aspects of the church, including attendance, giving, and event participation</td></tr><tr><td>Customization</td><td>Allows the church to customize the system to meet their specific needs and preferences</td></tr></tbody></table>
 
 
